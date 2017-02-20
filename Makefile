@@ -1,0 +1,2 @@
+run:
+	./InventoryClient_CentOS
