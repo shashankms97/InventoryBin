@@ -1,2 +1,2 @@
 run:
-	sudo ./InventoryClient_CentOS
+	./InventoryClient_CentOS
